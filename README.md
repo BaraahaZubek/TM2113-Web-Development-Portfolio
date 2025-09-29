@@ -6,10 +6,10 @@ UKM Qatar - TM2113 Web Development Course Projects
 **Semester:** Fall 2025  
 
 ## Course Progress
-- ✅ Week 1: Traditional HTML
-- ✅ Week 2: HTML5 Advanced Features
-- ✅ Week 3: Basic PHP Programming
-- ⏳ Week 4: PHP Advanced Topics (upcoming)
+-  Week 1: Traditional HTML
+-  Week 2: HTML5 Advanced Features
+-  Week 3: Basic PHP Programming
+-  Week 4: PHP Advanced Topics (upcoming)
 
 ## Projects Showcase
 
